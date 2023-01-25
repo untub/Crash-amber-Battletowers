@@ -1,5 +1,7 @@
-# Crash-amber-Battletowers
+# Crash-amber-Battletowers (crash caused by destroying one of the spawners in one of the floors)
 Crash amber Battletowers
+
+
 ---- Minecraft Crash Report ----
 // On the bright side, I bought you a teddy bear!
 
